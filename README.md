@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Srishant Kumar]  
+# Hi 👋, I'm Srishant Kumar
 A passionate innovator, designer, and problem-solver with a knack for creating impactful solutions in the realms of entrepreneurship, cybersecurity, and software development. 🚀  
 
 🌱 I’m currently exploring:  
