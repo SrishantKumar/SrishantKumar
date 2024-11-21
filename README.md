@@ -6,7 +6,7 @@ A passionate innovator, designer, and problem-solver with a knack for creating i
 - Innovative ways to blend AI and design  
 
 📫 How to reach me:  
-[Srishant054@gmail.com]  
+(mailto:srishant054@gmail.com)
 
 ---
 
