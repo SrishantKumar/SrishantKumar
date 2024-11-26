@@ -17,10 +17,9 @@ A passionate innovator, designer, and problem-solver with a knack for creating i
 ---
 
 ## Projects and Ventures:  
-- **E-Cell Agartala**: Organizing inter-college events, hackathons, and innovation-driven competitions.  
 - **FinTrack**: A financial solution that minimizes cash burn and streamlines user-specific financial tracking.  
 - **SQL Kavach**: Strengthening database security with a focus on SQL injection prevention.  
-- **NetRakshak**: A cybersecurity project enhancing defense systems with tools like Caesar Cipher decryption.  
+- **KavachNet**: A cybersecurity project enhancing defense systems with tools like Caesar Cipher decryption.  
 
 ---
 
@@ -35,10 +34,12 @@ A passionate innovator, designer, and problem-solver with a knack for creating i
 
 ---
 
-## Fun Facts:  
-🎨 Combining tech with design to craft engaging user experiences.  
-💡 Always thinking of new ways to gamify learning and events.  
-📖 Lifelong learner, continuously exploring the intersection of ethics and innovation.  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SrishantKumar&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SrishantKumar&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishantKumar&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=SrishantKumar&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
