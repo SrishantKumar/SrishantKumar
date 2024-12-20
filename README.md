@@ -1,9 +1,35 @@
 # Hi 👋, I'm Srishant Kumar
-A passionate innovator, designer, and problem-solver with a knack for creating impactful solutions in the realms of entrepreneurship, cybersecurity, and software development. 🚀  
+a passionate UI/UX Designer and Graphic Designer from Patna, Bihar, India. Currently pursuing a **Bachelor of Technology (B.Tech)** in **Computer Science** at the **Indian Institute of Information Technology, Agartala**, I thrive at the intersection of creativity and technology.
 
-🌱 I’m currently exploring:  
-- Interactive web solutions  
-- Innovative ways to blend AI and design  
+---
+
+# 🔧 Skills & Expertise
+
+- **UI/UX Design**: Crafting intuitive and visually appealing user interfaces using tools like **Figma**.
+- **Graphic Design**: Designing stunning visuals for organizations like **E-Cell NIT Agartala**, **VivahSahyog**, and **Pixels Club NIT Agartala**.
+- **Web Development**: Certified in **HTML**, with a keen interest in modern web technologies.
+- **Languages**: Fluent in **Hindi** and proficient in **English**.
+
+---
+
+# 💼 Professional Experience
+
+- **UI/UX Designer** at **Lole Development**  
+  (June 2024 - Aug 2024)  
+  Designing interfaces that elevate user experience.
+
+- **Graphic Designer** at **VivahSahyog™**  
+  (February 2024 - July 2024)  
+  Combining design and marketing to create impactful campaigns.
+
+- **Public Relations Lead & Graphic Designer** at **Spic Macay**  
+  (Oct 2023 - Present)  
+  Managing public relations and designing for cultural outreach.
+
+- **Design Lead** at **Pixels Club, NIT Agartala**  
+  (September 2023 - Present)
+
+---
 
 📫 How to reach me:  
 (mailto:srishant054@gmail.com)
@@ -31,15 +57,4 @@ A passionate innovator, designer, and problem-solver with a knack for creating i
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrishantKumar&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrishantKumar&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishantKumar&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SrishantKumar&icon=0&color=0)](https://visitcount.itsvg.in)
----
 
